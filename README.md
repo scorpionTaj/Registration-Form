@@ -1,3 +1,4 @@
 # Registration-Form
 its a Registration Form
-![2022-06-06_21-58](https://user-images.githubusercontent.com/96800858/172253367-a78c7655-1062-4726-9390-8ad3d942c656.png)
+![2022-06-23_14-13](https://user-images.githubusercontent.com/96800858/175307144-41c75be2-dfa6-4790-914f-11874c385beb.png)
+
